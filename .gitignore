@@ -9,6 +9,7 @@ occ_assets
 *.so
 
 # Distribution / packaging
+export/
 .Python
 build/
 develop-eggs/
