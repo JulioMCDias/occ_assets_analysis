@@ -3,8 +3,10 @@
 {
 	"name": "Python 3",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/python:0-3.11"
-
+	"image": "mcr.microsoft.com/devcontainers/python:0-3.11",
+	"extensions": [
+		"DutchIgor.json-viewer"
+	]
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 
